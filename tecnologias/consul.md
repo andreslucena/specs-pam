@@ -3,45 +3,31 @@ Cónsul - Gobierno abierto del Ayuntamiento de Madrid {.c7}
 ----------------------------------------------------
 
 [URL](https://decide.madrid.es)
-
 [Código](https://github.com/AyuntamientoMadrid/participacion)
 
 Propuestas ciudadanas de Cónsul:
-
 -   [Formulario de Crear una propuesta](https://consul.alabs.org/proposals/new)
-
 -   Enlace a ¿Cómo funcionan las propuestas ciudadanas?
-
 -   Título de la propuesta
-
 -   Pregunta de la propuesta: Debe ser resumida en una pregunta cuya
     respuesta sea Sí o No. Ej. '¿Está usted de acuerdo en peatonalizar
     la calle Mayor?
-
 -   Resumen de la propuesta (máximo 200 caracteres)
-
 -   Texto desarrollado de la propuesta (opcional)
-
 -   Enlace a vídeo externo: Puedes añadir un enlace a YouTube o Vimeo
     (opcional)
-
 -   Enlace a documentación adicional (opcional)
-
 -   Temas: Etiqueta esta propuesta. Puedes elegir entre nuestras
     propuestas o introducir las que desees (opcional)
-
 -   Nombre y apellidos de la persona que hace esta propuesta
     (individualmente o como representante de un colectivo; no se
     mostrará públicamente)
-
 -   Acepto la Política de privacidad y las Condiciones de uso
-
 -   Captcha: Introduce el texto de la imagen en la siguiente caja
 
-
-
- 
-
+![](consul01.png)
+![](consul02.png)
+![](consul03.png)
 
 | **Puntos a favor**                       | **Puntos en contra**                     |
 | -- | -- |
