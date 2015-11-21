@@ -1,12 +1,17 @@
 
-Cónsul - Gobierno abierto del Ayuntamiento de Madrid {.c7}
-----------------------------------------------------
 
-[URL](https://decide.madrid.es)
-[Código](https://github.com/AyuntamientoMadrid/participacion)
+# Cónsul
 
-Propuestas ciudadanas de Cónsul:
--   [Formulario de Crear una propuesta](https://consul.alabs.org/proposals/new)
+Plataforma de Gobierno Abierto del Ayuntamiento de Madrid
+
+## Enlaces
+
+- [URL](https://decide.madrid.es)
+- [Código](https://github.com/AyuntamientoMadrid/participacion)
+
+
+## Características
+
 -   Enlace a ¿Cómo funcionan las propuestas ciudadanas?
 -   Título de la propuesta
 -   Pregunta de la propuesta: Debe ser resumida en una pregunta cuya
@@ -25,9 +30,13 @@ Propuestas ciudadanas de Cónsul:
 -   Acepto la Política de privacidad y las Condiciones de uso
 -   Captcha: Introduce el texto de la imagen en la siguiente caja
 
+## Pantallazos
+
 ![](consul01.png)
 ![](consul02.png)
 ![](consul03.png)
+
+## Puntos a favor y en contra
 
 | **Puntos a favor**                       | **Puntos en contra**                     |
 | -- | -- |
