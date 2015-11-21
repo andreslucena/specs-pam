@@ -14,7 +14,7 @@
    * [Panel de administración y moderación](admin.md)
    * [Encuentros presenciales (Calendario, mapa de eventos y autoorganización de encuentros presenciales)](calendario.md)
    * [Sistema de transparencia, monitorización y visualización de participación ciudadana](transparencia.md)
-* Tecnologías útiles y/o parecidas
+* [Tecnologías útiles y/o parecidas](tecnologias.md)
    * [Cónsul - Gobierno abierto del Ayuntamiento de Madrid](consul.md)
    * [Open Irekia](open-irekia.md)
    * [Your Priorities](your-priorities.md)
