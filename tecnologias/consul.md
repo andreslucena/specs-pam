@@ -2,14 +2,13 @@
 Cónsul - Gobierno abierto del Ayuntamiento de Madrid {.c7}
 ----------------------------------------------------
 
-URL:[ ](https://www.google.com/url?q=https://decide.madrid.es/&sa=D&usg=AFQjCNEUA4Ofj2mvhe73sWUG3E0ggle22g)[https://decide.madrid.es/](https://www.google.com/url?q=https://decide.madrid.es/&sa=D&usg=AFQjCNEUA4Ofj2mvhe73sWUG3E0ggle22g)
+[URL](https://decide.madrid.es)
 
-Código:[ ](https://www.google.com/url?q=https://github.com/AyuntamientoMadrid/participacion&sa=D&usg=AFQjCNE_JHrgFYTCxkUs7uEXNkrYEfIvMQ)[https://github.com/AyuntamientoMadrid/participacion](https://www.google.com/url?q=https://github.com/AyuntamientoMadrid/participacion&sa=D&usg=AFQjCNE_JHrgFYTCxkUs7uEXNkrYEfIvMQ)
+[Código](https://github.com/AyuntamientoMadrid/participacion)
 
-(A revisar e integrar) Propuestas ciudadanas de Cónsul: formulario de
-Crear una propuesta
+Propuestas ciudadanas de Cónsul:
 
--   [https://consul.alabs.org/proposals/new](https://www.google.com/url?q=https://consul.alabs.org/proposals/new&sa=D&usg=AFQjCNECUwmmgM2hR-X2ifjple6RoCRX4Q)
+-   [Formulario de Crear una propuesta](https://consul.alabs.org/proposals/new)
 
 -   Enlace a ¿Cómo funcionan las propuestas ciudadanas?
 
@@ -39,21 +38,9 @@ Crear una propuesta
 
 -   Captcha: Introduce el texto de la imagen en la siguiente caja
 
-![Selección\_049.png](specs_files/image03.png)
-
-![Selección\_050.png](specs_files/image18.png)
-
-![Selección\_051.png](specs_files/image07.png)
-
-[](https://www.google.com/url?q=https://github.com/AyuntamientoMadrid/participacion&sa=D&usg=AFQjCNE_JHrgFYTCxkUs7uEXNkrYEfIvMQ)
-
-[](#)[](#)
 
 
-| 0:0 | 1:0 |
-| -- | -- |
-| 0:2 | 1:2 |
-
+ 
 
 
 | **Puntos a favor**                       | **Puntos en contra**                     |
