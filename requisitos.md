@@ -1,4 +1,4 @@
-Requisitos técnicos {.c7}
+Requisitos técnicos
 ===================
 
 La aplicación debe contar con unas características básicas técnicas a
