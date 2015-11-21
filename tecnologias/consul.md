@@ -1,2 +1,74 @@
-# Cónsul - Gobierno abierto del Ayuntamiento de Madrid
+
+Cónsul - Gobierno abierto del Ayuntamiento de Madrid {.c7}
+----------------------------------------------------
+
+URL:[ ](https://www.google.com/url?q=https://decide.madrid.es/&sa=D&usg=AFQjCNEUA4Ofj2mvhe73sWUG3E0ggle22g)[https://decide.madrid.es/](https://www.google.com/url?q=https://decide.madrid.es/&sa=D&usg=AFQjCNEUA4Ofj2mvhe73sWUG3E0ggle22g)
+
+Código:[ ](https://www.google.com/url?q=https://github.com/AyuntamientoMadrid/participacion&sa=D&usg=AFQjCNE_JHrgFYTCxkUs7uEXNkrYEfIvMQ)[https://github.com/AyuntamientoMadrid/participacion](https://www.google.com/url?q=https://github.com/AyuntamientoMadrid/participacion&sa=D&usg=AFQjCNE_JHrgFYTCxkUs7uEXNkrYEfIvMQ)
+
+(A revisar e integrar) Propuestas ciudadanas de Cónsul: formulario de
+Crear una propuesta
+
+-   [https://consul.alabs.org/proposals/new](https://www.google.com/url?q=https://consul.alabs.org/proposals/new&sa=D&usg=AFQjCNECUwmmgM2hR-X2ifjple6RoCRX4Q)
+
+-   Enlace a ¿Cómo funcionan las propuestas ciudadanas?
+
+-   Título de la propuesta
+
+-   Pregunta de la propuesta: Debe ser resumida en una pregunta cuya
+    respuesta sea Sí o No. Ej. '¿Está usted de acuerdo en peatonalizar
+    la calle Mayor?
+
+-   Resumen de la propuesta (máximo 200 caracteres)
+
+-   Texto desarrollado de la propuesta (opcional)
+
+-   Enlace a vídeo externo: Puedes añadir un enlace a YouTube o Vimeo
+    (opcional)
+
+-   Enlace a documentación adicional (opcional)
+
+-   Temas: Etiqueta esta propuesta. Puedes elegir entre nuestras
+    propuestas o introducir las que desees (opcional)
+
+-   Nombre y apellidos de la persona que hace esta propuesta
+    (individualmente o como representante de un colectivo; no se
+    mostrará públicamente)
+
+-   Acepto la Política de privacidad y las Condiciones de uso
+
+-   Captcha: Introduce el texto de la imagen en la siguiente caja
+
+![Selección\_049.png](specs_files/image03.png)
+
+![Selección\_050.png](specs_files/image18.png)
+
+![Selección\_051.png](specs_files/image07.png)
+
+[](https://www.google.com/url?q=https://github.com/AyuntamientoMadrid/participacion&sa=D&usg=AFQjCNE_JHrgFYTCxkUs7uEXNkrYEfIvMQ)
+
+[](#)[](#)
+
+
+| 0:0 | 1:0 |
+| -- | -- |
+| 0:2 | 1:2 |
+
+
+
+| **Puntos a favor**                       | **Puntos en contra**                     |
+| -- | -- |
+| Licencia GPL Affero 3                | Su documentación es mejorable. Sólo tiene unas instrucciones muy básicas para hacerlo funcionar, pero sigue los estándares y convenciones de Ruby On Rails por lo que es prescindible.   |
+| Tanto el lenguaje de programación (Ruby), el framework de desarrollo (Ruby On Rails), el sistema operativo (Linux) y la base de datos (PostgreSQL) son completamente libres.  | Se encuentra en pleno desarrollo, por lo que será necesario coordinarse con los desarrolladores originales para ver la mejor forma de contribuir y cuales (y como) de nuestras funcionalidades se podrían subir a la versión del Ayuntamiento de Madrid. Esto podría evitarse esperando hasta que se consensue con Madrid  un modelo que facilite la colaboración aún más por parte de Madrid.  | 
+| Permite la colaboración externa en la rama principal de desarrollo.  | La tecnología con la que está realizada, el lenguaje y framework de programación, no son unas en las que se encuentre familiarizados los programadores del IMI. Aunque se trate de tecnologías con conceptos similares a las que se utilizan internamente (Python y Django), aún así hace falta un tiempo de aprendizaje. |
+|Cuenta tanto con suite de tests como servicios externos de control de calidad ya integrados. ||
+| El desarrollo es completamente abierto y libre desde el primer momento. ||
+| Cuenta ya con internacionalización (en Castellano e Inglés), por lo que se ahorraría mucho tiempo en este trabajo que suele ser tedioso y llevar bastante tiempo durante el desarrollo. ||
+| Tiene un sistema de registro de usuarios que permite su verificación a través de correo electrónico, así como de la API del padrón y a través de SMS. Cuenta con un sistema de permisos similar al necesario por las especificaciones.  ||
+| Ya tiene un modelo base extensible de Propuestas, Comentarios, etc. ||
+| Aplica el principio de Kerckhoffs en materia de seguridad de configuraciones. Ya se encuentra revisada por la comunidad y no se han encontrado fallos de seguridad. ||
+| Cuenta con funcionalidades de denuncia y moderación de las propuestas y comentarios. ||
+| Tiene una comunidad de desarrollo cada vez más extensa 21 contribuidores.||
+| Lo están utilizando en Madrid y estudiando su uso en Zaragoza para los próximos meses, por lo que podemos aprovecharnos de la experiencia acumulada. ||
+| Ya lo están utilizando Ayuntamientos en España así que está en cierta medida asegurada su revisión técnica y legal. ||
 
