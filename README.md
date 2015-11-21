@@ -28,8 +28,27 @@ Democracia participativa, ciudad democrática, conocimiento abierto, democracia 
 
 ### Estructura
 
-* [Períodos o fases](chapter1.md)
-* [Requisitos técnicos](chapter2.md)
+* [Introducción](README.md)
+* [Objetivo](objetivo.md)
+* [Períodos o fases](fases.md)
+* [Requisitos técnicos](requisitos.md)
+* [Funcionalidades](funcionalidades.md)
+   * [Portada](funcionalidades/portada.md)
+   * [Propuesta](funcionalidades/propuesta.md)
+   * [Listado de propuestas](funcionalidades/listado.md)
+   * [Registro y verificaciòn de usuarias](funcionalidades/usuarias-registro.md)
+   * [Tipos de usuarias](funcionalidades/usuarias-tipos.md)
+   * [Acciones de una usuaria](funcionalidades/usuarias-acciones.md)
+   * [Panel de administración y moderación](funcionalidades/admin.md)
+   * [Encuentros presenciales (Calendario, mapa de eventos y autoorganización de encuentros presenciales)](funcionalidades/calendario.md)
+   * [Sistema de transparencia, monitorización y visualización de participación ciudadana](funcionalidades/transparencia.md)
+* [Tecnologías útiles y/o parecidas](tecnologias.md)
+   * [Cónsul - Gobierno abierto del Ayuntamiento de Madrid](tecnologias/consul.md)
+   * [Open Irekia](tecnologias/open-irekia.md)
+   * [Your Priorities](tecnologias/your-priorities.md)
+   * [e-Petitions Gov.UK](tecnologias/e-petitions.md)
+   * [Desarrollo propio a medida](tecnologias/development.md)
+
 
 ### Fuentes 
 
@@ -37,7 +56,7 @@ Este documento está escrito en lenguaje Markdown, está dividido en diferentes 
 
 ### Cómo citar este documento
 
- (2015) *XXX*. https://www.gitbook.com/book/XXX
+Especificaciones Plataforma de Participación Ciudadana para la elaboración del PAM 2016 de la ciudad de Barcelona (2015) *Andrés Pereira de Lucena*. https://www.gitbook.com/book/andreslucena/specs-pam
 
 ### Licencia
 
