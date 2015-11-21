@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Introducción](README.md)
 * [Objetivo](objetivo.md)
 * [Períodos o fases](fases.md)
 * [Requisitos técnicos](requisitos.md)
