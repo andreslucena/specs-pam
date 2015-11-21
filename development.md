@@ -1,2 +1,0 @@
-# Desarrollo propio a medida
-
