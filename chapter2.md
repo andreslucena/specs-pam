@@ -1,4 +1,4 @@
-Requisitos técnicos
+# Requisitos técnicos
 
 La aplicación debe contar con unas características básicas técnicas a seguir en materia de liberación de código, estándares de calidad, seguridad, documentación, :
 * La plataforma que se desarrolle debe tener licencia abierta desde el primer momento, utilizando una licencia GPL Affero V3 o similar. Su código fuente debe estar publicado desde antes de su puesta en producción, idealmente desde el primer commit. Debe estar disponible en una plataforma como Github y, a ser posible, además en otro repositorio-plataforma no privativo y/o del propio Ayuntamiento.
