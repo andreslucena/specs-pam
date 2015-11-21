@@ -1,5 +1,5 @@
 # Summary
 
-* [Objetivo]
-* [Períodos o fases](chapter1.md)
-* [Requisitos técnicos](chapter2.md)
+* [Objetivo](objetivo.md)
+* [Períodos o fases](fases.md)
+* [Requisitos técnicos](requisitos.md)
