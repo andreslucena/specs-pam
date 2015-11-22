@@ -1,6 +1,5 @@
 # Acciones de una usuaria
 
-
 El panel de la usuaria (es decir, las funcionalidades que se le permiten
 realizar a un usuario una vez registrado y/o verificado) tiene que poder
 ofrecer, en un futuro, posibilidades diferentes, aunque en un primer
