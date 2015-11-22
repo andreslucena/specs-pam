@@ -34,6 +34,11 @@ confirmación.
 
 El usuario debe aceptar unas condiciones de uso.
 
+Al ser un proceso tan básico y que siempre se piden los mismos datos, se muestra 
+como ejemplo un pantallazo de este paso tomado de [Madrid Decide](https://decide.madrid.es/).
+
+![](decide02.png)
+
 ## 2° paso: Verificación
 
 Para detener ataques automatizados de votaciones, se requerirá una
@@ -76,6 +81,11 @@ empadronado. Como alternativas se piensan:
     DNI, contrato, etc. También habría que tener criterios para la gente
     que no lo pueda demostrar (inmigrantes sin papeles).
 -   ¿Ciudadanos empadronados en el Área metropolitana de Barcelona?
+
+A falta de definir este proceso con detalle, la interfaz gráfica y el flujo de un
+usuario será similar al seguido por [Madrid Decide](https://decide.madrid.es/).
+
+![](decide03.png)
 
 ## 3° paso (opcional). Completar perfil de usuaria
 
