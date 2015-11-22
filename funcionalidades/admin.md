@@ -12,24 +12,15 @@ Debe así mismo se debe disponer de otro rol, el Administrador, donde en
 una interfaz sencilla debe poder:
 
 -   Renombrar y eliminar etiquetas.
-
 -   Ver todas las propuestas y comentarios que se hayan ocultado por
     parte de los moderadores.
-
 -   Ver a los usuarios bloqueados.
-
 -   Ver a los usuarios con verificaciones incompletas.
-
 -   Ver la última actividad de los moderadores.
-
--   Administrar los distintos perfiles de usuarios que se disponga:
-
--   Organizaciones,
-
--   Cargos públicos
-
--   Moderadores
-
+ -   Administrar los distintos perfiles de usuarios que se disponga:
+ -   Organizaciones,
+ -   Cargos públicos
+ -   Moderadores
 -   Por último, debe tener un módulo de estadísticas internas básicas
     para poder medir de forma sencilla y rápida la participación de los
     últimos días.
@@ -39,10 +30,8 @@ deberían de poder realizarse a través de las usuarias una vez esté la
 arquitectura básica montadas.
 
 -   Introducir modificaciones en la portada
-
 -   Creación de usuarias genéricas o colectivas (como funciones del
     ayuntamiento, etc.)
-
 -   Anular contribuciones o comentarios: no se borran del todo
     simplemente desaparecen del registro visible. Tiene que haber una
     justificación para esto. En el piloto del IMI hay un espacio
@@ -50,6 +39,5 @@ arquitectura básica montadas.
     propuestas desechadas por defectos de forma (insultos, estupideces,
     etc.). [¿Se puede acceder a este piloto? ]
     Aqui: http://188.166.125.30/votacio/\#/votación/temes 
-
 -   Borrar comentarios o propuestas: solo para casos en los que el
     contenido sea ilegal o algo muy grave.
