@@ -1,6 +1,5 @@
 # Open Irekia
  
- 
 |**URL** | http://www.irekia.euskadi.eus /|
 | -- | -- |
 | **Código** | http://www.irekia.euskadi.eus/es/pages/10081-openirekia-publicacion-del-software-ogov-del-gobierno-vasco|
