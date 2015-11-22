@@ -1,5 +1,4 @@
-Períodos o fases 
-================
+# Períodos o fases 
 
 Inicialmente esta plataforma se utilizará para realizar propuestas de
 medidas, comentarios o argumentos a favor o en contra de las mismas,
@@ -22,8 +21,7 @@ fases hacen un uso parcial o limitado de la funcionalidad de esta fase
 d’Actuació Municipal (PAM) i dels Programes d’Actuació dels Districtes (PAD) 2016-2019(2015) Ajuntament de Barcelona – Regidoria de Participació i Districtes  
 http://premsa.bcn.cat/wp-content/uploads/2015/11/Presidencia-151118-Proces-participatiu-PAM-i-PADs.pdf *
 
-1. Elaboración de la propuesta inicial
---------------------------------------
+## 1. Elaboración de la propuesta inicial
 
 Esta fase concluirá con un documento que salga propuesto por el equipo
 de gobierno, adaptado por parte de personal técnico del ayuntamiento.
@@ -45,8 +43,7 @@ seguir la ciudadanía en la fase 2. Hay que pensar qué tipo de autoría y
 cuenta de usuaria será la responsable de subir esta semilla del PAM-PAD
 y como queda eso reflejado en las medidas.
 
-2. Apertura a participación ciudadana digital y presencial 
-----------------------------------------------------------
+## 2. Apertura a participación ciudadana digital y presencial 
 
 Esta es la fase más compleja, las especificaciones del siguiente
 documento están pensadas para esta fase. Durante este período se
@@ -57,8 +54,7 @@ Este periodo de participación va a tener una durada de dos meses, y va a
 concentrar la mayor parte de la actividad participativa en la
 plataforma.
 
-3. Fase de negociación política
--------------------------------
+## 3. Fase de negociación política
 
 Fase de negociación política y re-elaboración del PAM-PAD con las
 contribuciones, votos y comentarios de la ciudadanía. La participación
@@ -112,8 +108,7 @@ final que se va a llevar en el Pleno Municipal para ser aprobado. Pero
 sea cual sea el estado final cada una llevará una explicación sobre el
 motivo por el que se asigna un estado o otro.
 
-4. Documento final 
-------------------
+## 4. Documento final 
 
 Idealmente debería de presentarse en la misma plataforma y permitir la
 visibilización de la autoría de propuestas, el historial de cada medida,
