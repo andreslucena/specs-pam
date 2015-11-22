@@ -27,7 +27,7 @@ aleatorias, últimas comentadas), con un desplegable (ej. imagen debajo)
 que permite pasar a pantallas con el mismo formato de listado de
 propuestas pero con listas creadas siguiendo otras categorías y
 criterios . Discutir el criterio de la lista que aparece inicialmente
-(más votadas, más activas hoy…).
+(más votadas, más activas hoy).
 
 Se agrega una imagen de Madrid Decide para visualizar elementos a tener
 en cuenta (tags, buscador, etc.)
