@@ -1,6 +1,5 @@
 
-Portada
--------
+# Portada
 
 Tiene que ser capaz de captar la complejidad del proceso (áreas,
 jerarquía, etc.) la fase en la que estamos y las que faltan, etc. debe
@@ -80,7 +79,5 @@ menos actividad evaluativa y de comunidad (comentarios, me gustas, etc),
 la segunda opción (ver todas las propuestas) potencia la deliberación,
 potencia la participación en comunidad y la evaluación, a riesgo de
 generar pensamiento de grupo y disminuir el número total de propuestas.
-
-
 
 ![](home01.png)![](home02.png)![](home03.png)![](home04.png)![](home05.png)
