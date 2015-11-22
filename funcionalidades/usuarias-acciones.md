@@ -40,9 +40,7 @@ Ayuntamiento. Como mínimo debe permitir seleccionar lo siguiente en su
 perfil:
 
 * Recibir un email cuando alguien comenta en mis propuestas o debates
-
 * Recibir un email cuando alguien contesta a mis comentarios
-
 * Recibir comunicados generales del área de Participación del
 Ayuntamiento.
 
