@@ -35,32 +35,23 @@ Las medidas realizadas por la ciudadanía a través de Internet (online)
 contarán con lo siguientes campos:
 
 -   Obligatorios
-
  -   Título. Máximo 256 caracteres.
-
  -   Contenido propio de la propuesta. Máximo 1000 caracteres.
-
  -   Escala: si se trata de una medida general para la ciudad
     (perteneciente al PAM) o de una propuesta para un distrito en
     particular (perteneciente al PAD).
-
  -   Localización jerárquica (eje, objetivos). Cada medida tiene un
     Objetivo que a su vez tiene un Eje.
-
 -   Opcionales
-
  -   Evaluación: texto libre. ¿Como saber que se ha cumplido esta medida?
  -   Periodo: texto libre. Por cuánto tiempo, para cuando es razonable
     esperar que se haga? Depende de si hay calendarios de
     implementación--como muy tarde--digamos--3 meses antes del fin de la
     legislatura.
-
  -   Tags (esto puede valer para otras clasificaciones además de la
     jerarquía).
-
  -   Video explicativo (2-3 minutos). (decidir si para todos los usuarios
     o sólo para dinamizadores de talleres presenciales)
-
  -   Referencias o enlaces para dar soporte a la propuesta, con ejemplos,
     referencias bibliográficas, otros modelos, etc. Solo se podrán
     introducir URLs.
@@ -69,16 +60,12 @@ contarán con lo siguientes campos:
     seguimiento, o crea que otra persona lo pueda hacer mejor), un
     usuario puede hacer una petición a los moderadores de que la autoría
     la lleve otro.
-
 -   En caso de ser presencial: (resulta de un grupo de discusión o
     asamblea)
-
  -   Casilla que especifica que la propuesta es el resultado de discusión
     colectiva presencial.
-
  -   Espacio para añadir nombres de colectivos (asociaciones, empresas,
     etc.) y/o personas participantes.
-
  -   Enlace al evento de la reunión presencial, con todo lo que conlleva
     (acta de la sesión, número de participantes, etc).
 
@@ -121,10 +108,8 @@ Aparte de estos campos debe contar con las siguientes funcionalidades:
     pueden votar de forma positiva y negativa una propuesta. Tiene que
     existir la posibilidad de que las personas usuarias puedan cambiar
     el voto en función de la discusión.
-
 -   Todos los usuarios deben poder considerar una propuesta como
     “Inapropiada” y denunciar a los moderadores.
-
 -   Toda propuesta podrá tener varios argumentos. Que son comentarios,
     anidados y puntuables. Irán coloreados en función si la persona que
     ha hecho el comentario ha votado negativo o positivo a la propuesta,
@@ -137,12 +122,10 @@ Aparte de estos campos debe contar con las siguientes funcionalidades:
     meneame o de otro modo más gráfico---visualizar mediante una doble
     lista o panel izquierda--a favor, derecha--en contra, idealmente).
     Según el rol que tenga el usuario, se mostrará de distintas formas:
-
 -   Debe distinguirse también en color especial comentarios de quien ha
     realizado la propuesta
 -   Respuestas del personal técnico del ayto también podrían tener un
     color diferente
-
 -   Listado (feed) de actualizaciones, donde se pondrán este tipo de
     datos que a lo largo del tiempo pueden ir mostrando cambios en su
     nivel de actividad, de fases, etc, al estilo de las
@@ -153,7 +136,6 @@ Aparte de estos campos debe contar con las siguientes funcionalidades:
     propuesta, la cantidad de comentarios, etc. (como la nano fisgona de
     meneame). También podemos añadir la fase en la que está y si ha
     pasado ya algún tipo de umbral.
-
 -   No se podrán modificar las propuestas una vez realizadas, por
     problemas que puede haber relacionados con comentarios que se
     agreguen o votos que se realicen y luego se modifique la misma,
@@ -178,13 +160,10 @@ Otras funcionalidades de las medidas/contribuciones:
 -   Posibilidad de compartir la propuesta en redes sociales (Twitter,
     Facebook, Google +, en caso de ser un dispositivo movil tambien
     apareceran WhatsApp y Telegram)
-
 -   En rojo o en verde dependiendo de si se llega a un umbral mínimo de
     "me gusta", "seguidores" o "asistentes".
-
 -   Posibilidad de recibir actualizaciones sobre una propuesta (aunque
     no sea propia), hilo de debate, o evento.
-
 -   Posibilidad de consultar las propuestas de otras
     participantes---para inspirarse, no repetir, etc. Enlace o
     desplegable en la misma pantalla en la que se redacta--- variable
@@ -196,17 +175,14 @@ Otras funcionalidades de las medidas/contribuciones:
     Inteligencia Artificial (SOLAR) que permita al usuario ver
     propuestas similares al momento de redactar el título o descripción
     de la misma.
-
 -   Posibilidad de agrupar propuestas. Pensar sistema de crowdsourcing
     que minimice el trabajo posterior de estudio de las propuestas.
     Podríamos explorar algún tipo de IA que haga esto o que le proponga
     a una usuaria: crees que estas dos medidas son la misma? preguntas
     de este tipo que faciliten la inteligencia colectiva.
-
 -   Se recoge con total claridad tanto las enmiendas como los vetos a
     propuestas que provengan de la fase de negociación entre partidos
     políticos (fase 3).
-
 -   Trazabilidad ampliada. Posibilidad de suscribirse a una medida y ver
     sus cambios. Se recibirán todas las actualizaciones que estén
     relacionadas con cualquier fase de la misma. Por ejemplo si hago una
