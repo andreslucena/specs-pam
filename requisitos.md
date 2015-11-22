@@ -1,5 +1,4 @@
-Requisitos técnicos
-===================
+# Requisitos técnicos
 
 La aplicación debe contar con unas características básicas técnicas a
 seguir en materia de liberación de código, estándares de calidad,
