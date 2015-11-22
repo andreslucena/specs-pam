@@ -30,7 +30,7 @@ una interfaz sencilla debe poder:
 
 -   Moderadores
 
--   Por último, debe tener un módulo de Estadísticas  internas básicas
+-   Por último, debe tener un módulo de estadísticas internas básicas
     para poder medir de forma sencilla y rápida la participación de los
     últimos días.
 
@@ -49,7 +49,7 @@ arquitectura básica montadas.
     concreto y consultable por todas las usuarias donde se acumulan las
     propuestas desechadas por defectos de forma (insultos, estupideces,
     etc.). [¿Se puede acceder a este piloto? ]
-    Aqui:[ ](https://www.google.com/url?q=http://188.166.125.30/votacio/%23/votacio/temes/&sa=D&usg=AFQjCNFcPiWcYA72mfI7BtCUfpKfU07hRA)[http://188.166.125.30/votacio/\#/votación/temes/](https://www.google.com/url?q=http://188.166.125.30/votacio/%23/votacio/temes/&sa=D&usg=AFQjCNFcPiWcYA72mfI7BtCUfpKfU07hRA)
+    Aqui: http://188.166.125.30/votacio/\#/votación/temes 
 
 -   Borrar comentarios o propuestas: solo para casos en los que el
     contenido sea ilegal o algo muy grave.
