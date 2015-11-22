@@ -1,7 +1,7 @@
 # Listado de propuestas
 
 
-### Pantalla formato 1 {.c7}
+### Pantalla formato 1
 
 El formato 1 de pantalla de “Propuestas”, sea para nivel municipio o
 distrito, o por áreas (habría que definir si se crea una pantalla donde
@@ -17,7 +17,7 @@ propuestas más recientes, más votadas, etc. acumula la atención. Nota:
 la pantalla Formato 1 requiere la pantalla formato 2, pero no a la
 inversa.
 
-### Pantalla formato 2 {.c7}
+### Pantalla formato 2
 
 En el formato 2 de pantalla aparece una lista sólo del conjunto de
 propuestas en función de lo seleccionado previamente, que se puede
