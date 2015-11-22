@@ -7,7 +7,7 @@ procesos offline), en la que se propondrán medidas para el Programa
 d'Actuació Municipal (PAM) y el Plan de Actuación por Distritos (PAD)
 por parte de la ciudadanía en la ciudad de Barcelona.
 
-Se trata de una aplicación web responsive multi idioma orientada para
+Se trata de una aplicación web responsive multi idioma orientada para
 facilitar la participación de los ciudadanos de Barcelona con registro
 de usuarios con confirmación de correo electrónico y posibilidad de
 verificación a través de conexión al padrón y/o sms, etc. La ciudadanía
@@ -21,4 +21,3 @@ iniciales y funcionales, así como tenerse en cuenta en este desarrollo
 inicial las funcionalidades futuras ya planificadas, así como permitir
 una versatilidad que habilite su modificación posterior sin provocar
 retrasos en el calendario propuesto de funcionalidades.
-
