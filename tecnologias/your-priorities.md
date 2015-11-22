@@ -1,8 +1,5 @@
 # Your Priorities
- 
- - [URL]()
- - [Còdigo]()
- 
+
 |**URL** | https://www.yrpri.org/home/world/|
 | -- | -- |
 | **Código** | https://github.com/rbjarnason/your-priorities |
