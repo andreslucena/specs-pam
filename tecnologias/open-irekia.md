@@ -1,7 +1,10 @@
 # Open Irekia
  
- - [URL](http://www.irekia.euskadi.eus/)
- - [Còdigo]()
+ 
+|**URL** | http://www.irekia.euskadi.eus /|
+| -- | -- |
+| **Código** | http://www.irekia.euskadi.eus/es/pages/10081-openirekia-publicacion-del-software-ogov-del-gobierno-vasco|
+
  -
 ## Descripción
 
@@ -12,7 +15,10 @@ up) como propuestas por parte de la institución (top down).
 
 ## Características
 
--   
+-   Permite a la ciudadanía realizar peticiones al Gobierno Vasco, así como votarlas (de manera positiva o negativa), realizar comentarios, dar argumentos a favor o en contra. 
+-   Incorpora mecanismos de respuesta por parte del Gobierno a las peticiones ciudadanas.
+-   Permite a su vez realizar Propuestas de Gobierno, permitiendo que el Gobierno inicie debates y escuchar la opinión de la ciudadanía sobre un debate específico. 
+-   Incorpora Agenda de eventos y capacidades básicas de CMS (Sistema de Gestión de Contenidos): noticias, fotografías, videos, streamming. 
 
 ## Argumentos
 
