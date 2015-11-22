@@ -1,4 +1,4 @@
-# Registro y verificación de usuarias {.c7}
+# Registro y verificación de usuarias
 
 
 La aplicación debe permitir un registro y autenticación básica segura de
