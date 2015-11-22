@@ -1,8 +1,9 @@
 # e-Petitions Gov.UK
 
- - [URL](https://petition.parliament.uk/)
- - [Còdigo]()
- -
+|**URL** | https://petition.parliament.uk|
+| -- | -- |
+| **Código** | https://github.com/alphagov/e-petitions |
+
 ## Descripción
 
 Es la plataforma web para llevar propuestas al Gobierno y Parlamento de UK. 
