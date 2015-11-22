@@ -41,7 +41,6 @@ siguiente:
     de opinar y proponer pueda hacerlo y se le facilite materiales para
     ello (siquiera mínimamente).
 -   Debe tener la posibilidad de crear una propuesta de medida
-
 -   Debe tener la posibilidad de comenzar a leer y/o votar propuestas de
     medidas, tanto para el PAM general como para el PAD del distrito que
     corresponda segun su codigo postal, en caso de que haya una
@@ -49,11 +48,10 @@ siguiente:
     permitirá ver las propuestas de otros distritos.  
 -   Debe tener la posibilidad de adaptarse fácilmente, incluyendo
     algunos anuncios generales sobre el proceso. Por ejemplo:
-
--   un video introductorio
--   mensaje de la alcaldesa
--   anuncios de que queda poco para la siguiente fase
--   logros específicos de participación. Incluye enlace a otra pantalla
+ -   un video introductorio
+ -   mensaje de la alcaldesa
+ -   anuncios de que queda poco para la siguiente fase
+ -   logros específicos de participación. Incluye enlace a otra pantalla
     en la que se visualiza: el proceso (estructura, calendario, etc.),
     principios del proceso y narrativas al respecto (que entendemos por
     participación, por qué es importante, etc.).
