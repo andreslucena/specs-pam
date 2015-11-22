@@ -10,7 +10,7 @@ El documento quiere ser un espacio vivo de debate participativo y producción co
 
 ### Autoría
 
-Este borrador está siendo escrito por . Puedes consultar la lista de contribuciones al documento directamente en [esta sección de github](https://github.com/XXX/graphs/contributors). Ambos autores son a su vez los editores del texto. Las contribuciones de terceras personas serán aceptadas o rechazadas y en su caso reconocidas en este apartado.
+Este borrador está siendo escrito por Andrés Pereira de Lucena ([andreslucena](http://github.com/andreslucena)). Puedes consultar la lista de contribuciones al documento directamente en [esta sección de github](https://github.com/XXX/graphs/contributors). Ambos autores son a su vez los editores del texto. Las contribuciones de terceras personas serán aceptadas o rechazadas y en su caso reconocidas en este apartado.
 
 ### Resumen  
 Este documento busca descrbi las especificaciones que tendrá un plataforma participativa (tanto en su faceta de espacio de participación online como en su rol de interfaz con procesos offline), en la que se propondrán medidas para el Programa d'Actuació Municipal (PAM) por parte de la ciudadanía para el Ajuntament de Barcelona. 
