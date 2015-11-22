@@ -4,7 +4,6 @@
 | -- | -- |
 | **Código** | http://www.irekia.euskadi.eus/es/pages/10081-openirekia-publicacion-del-software-ogov-del-gobierno-vasco|
 
- -
 ## Descripción
 
 Es la plataforma web de participación del gobierno vasco. Cuenta con
