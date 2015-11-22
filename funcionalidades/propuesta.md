@@ -12,13 +12,13 @@ la siguiente jerarquía:
 
 1.  Escala: si es a nivel Municipal, de toda la ciudad/o específico a un
     Distrito, por ejemplo Ciutat Vella.
-2.  Ejes (5 a escala de ciudad y 3 a escala de distrito). No son
+2.  Ejes (5 a escala de ciudad y 3 a escala de distrito). No son
     modificables. Los ejes son inalterables y distintos para PAM y PAD
     (y diferentes en cada distrito)
 3.  Objetivos (pueden ser varios, dependera del eje). Se escogen bien de
     la lista de objetivos predefinidos o bien creados ex-novo para esa
     medida, o bien de otros objetivos que hayan creado otras
-    usuarias. Los usuarios online y los usuarios dinamizadores podrán
+    usuarias. Los usuarios online y los usuarios dinamizadores podrán
     crear nuevos objetivos, pero siempre cuando estén creando una medida
     si no les encaja en los ya creados. Una medida siempre estará ligado
     a un único objetivo (1 a 1). Los objetivos tienen dos umbrales al
@@ -53,7 +53,7 @@ contarán con lo siguientes campos:
  -   Video explicativo (2-3 minutos). (decidir si para todos los usuarios
     o sólo para dinamizadores de talleres presenciales)
  -   Referencias o enlaces para dar soporte a la propuesta, con ejemplos,
-    referencias bibliográficas, otros modelos, etc. Solo se podrán
+    referencias bibliográficas, otros modelos, etc. Solo se podrán
     introducir URLs.
  -   Autoría transferible, en el caso de que el autor lo quisiera, por
     diversos motivos (en caso de no tener tiempo para hacer el
@@ -170,8 +170,8 @@ Otras funcionalidades de las medidas/contribuciones:
     sobre la base de áreas-objetivos, palabras clave, etc. que introduce
     el usuario (algo similar ya esta implementado para el piloto interno
     del ayuntamiento).
--   Posibilidad de "sugerencias maquinicas"  mientras se
-    redacta. Mostrar al usuario recomendaciones a través de una
+-   Posibilidad de "sugerencias maquinicas" mientras se
+    redacta. Mostrar al usuario recomendaciones a través de una
     Inteligencia Artificial (SOLAR) que permita al usuario ver
     propuestas similares al momento de redactar el título o descripción
     de la misma.
@@ -188,11 +188,11 @@ Otras funcionalidades de las medidas/contribuciones:
     relacionadas con cualquier fase de la misma. Por ejemplo si hago una
     propuesta, y se junta con otra, o si hago una propuesta y recibe un
     argumento en contra, o si la propuesta pasa a la fase 2, etc. La
-    opción permitirá para recibir  actualizaciones sobre una determinada
-    medida en la negociación política  y tras la aprobación del PAM.
-    Actualizaciones para: 1-informar sobre  (variaciones en) estado (sin
+    opción permitirá para recibir actualizaciones sobre una determinada
+    medida en la negociación política y tras la aprobación del PAM.
+    Actualizaciones para: 1-informar sobre (variaciones en) estado (sin
     iniciar, en desarrollo, realizado); 2-invitación a colaborar
-    (medio-largo plazo);  3-evaluación técnica y ciudadana (?). Estudiar
+    (medio-largo plazo); 3-evaluación técnica y ciudadana (?). Estudiar
     poner diferentes niveles de actividad que se quiera recibir, por
     ejemplo solo de la propuesta en general (e incluiría lo que se cita
     aquí) o también todos los comentarios que se generan durante la Fase
