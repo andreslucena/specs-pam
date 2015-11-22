@@ -13,7 +13,14 @@ proceso. .
 El proceso de elaboración del PAM-PAD está diseñado en 4 fases
 principales siendo la segunda fase (2) las más compleja y el resto de
 fases hacen un uso parcial o limitado de la funcionalidad de esta fase
-2:
+2.
+
+![](fases01.png)
+
+![](fases02.png)
+*Mesura de govern. Procés participatiu per a l’elaboració del Programa
+d’Actuació Municipal (PAM) i dels Programes d’Actuació dels Districtes (PAD) 2016-2019(2015) Ajuntament de Barcelona – Regidoria de Participació i Districtes  
+http://premsa.bcn.cat/wp-content/uploads/2015/11/Presidencia-151118-Proces-participatiu-PAM-i-PADs.pdf *
 
 1. Elaboración de la propuesta inicial
 --------------------------------------
