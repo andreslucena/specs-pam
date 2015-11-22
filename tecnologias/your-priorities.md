@@ -1,8 +1,12 @@
 # Your Priorities
  
- - [URL](https://www.yrpri.org/home/world)
+ - [URL]()
  - [Còdigo]()
- -
+ 
+|**URL** | https://www.yrpri.org/home/world/|
+| -- | -- |
+| **Código** | https://github.com/rbjarnason/your-priorities |
+
 ## Descripción
 
 Es la plataforma web de votación de propuestas creada en Islandia. Se ha utilizado para enviar propuestas al gobierno de Reykjavik desde el 2011. 
