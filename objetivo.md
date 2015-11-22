@@ -1,6 +1,4 @@
-Objetivo
-========
-
+# Objetivo
 
 El objetivo de este documento es el de servir de primer acercamiento a
 las especificaciones que tendrá un plataforma participativa (tanto en su
