@@ -43,7 +43,7 @@ seguir la ciudadanía en la fase 2. Hay que pensar qué tipo de autoría y
 cuenta de usuaria será la responsable de subir esta semilla del PAM-PAD
 y como queda eso reflejado en las medidas.
 
-## 2. Apertura a participación ciudadana digital y presencial 
+## 2. Apertura a participación ciudadana digital y presencial 
 
 Esta es la fase más compleja, las especificaciones del siguiente
 documento están pensadas para esta fase. Durante este período se
@@ -71,7 +71,7 @@ y los partidos ignorar propuestas ciudadanas, modificarlas o
 desvirtuarlas. También es una fase en la que prima el realismo y pueden
 intervenir y modificarse muchas propuesta para que puedan tener un
 encaje general o una adaptación pragmática a las capacidad del
-ayuntamiento, a los presupuestos, la normativa, etc.  
+ayuntamiento, a los presupuestos, la normativa, etc.
 
 Estando congelada ya la parte de participación ciudadana lo importante
 de esta fase es poder informar, de manera transparente, de las
