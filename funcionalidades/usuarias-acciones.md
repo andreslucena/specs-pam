@@ -47,8 +47,8 @@ perfil:
 * Recibir comunicados generales del área de Participación del
 Ayuntamiento.
 
-DERECHO AL OLVIDO: Una usuaria debe poder  borrar su perfil para
-siempre, sus comentarios y propuestas quedarán  asignados a un número
+DERECHO AL OLVIDO: Una usuaria debe poder borrar su perfil para
+siempre, sus comentarios y propuestas quedarán asignados a un número
 sin que pueda saberse quién es.
 
 Tiene que permitir a la usuaria cambiar sus preferencias
@@ -60,7 +60,7 @@ que realice, etc. (Opcional - Medio Plazo).
 
 Posibilidad de enlazar su usuaria con otros perfiles en otras
 plataformas (por ejemplo redes sociales, comerciales y libres).
- (Opcional - Medio Plazo).
+ (Opcional - Medio Plazo).
 
 P.e. cuando hago una propuesta de medida o un comentario que aparezca
 automáticamente en mi muro de facebook o mi timeline de twitter.
