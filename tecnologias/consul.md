@@ -30,12 +30,6 @@ Plataforma de Gobierno Abierto del Ayuntamiento de Madrid
 -   Acepto la Política de privacidad y las Condiciones de uso
 -   Captcha: Introduce el texto de la imagen en la siguiente caja
 
-## Pantallazos
-
-![](consul01.png)
-![](consul02.png)
-![](consul03.png)
-
 ## Puntos a favor y en contra
 
 | **Puntos a favor**                       | **Puntos en contra**                     |
@@ -54,3 +48,8 @@ Plataforma de Gobierno Abierto del Ayuntamiento de Madrid
 | Lo están utilizando en Madrid y estudiando su uso en Zaragoza para los próximos meses, por lo que podemos aprovecharnos de la experiencia acumulada. ||
 | Ya lo están utilizando Ayuntamientos en España así que está en cierta medida asegurada su revisión técnica y legal. ||
 
+## Pantallazos
+
+![](consul01.png)
+![](consul02.png)
+![](consul03.png)
