@@ -12,7 +12,7 @@ Plataforma de Gobierno Abierto del Ayuntamiento de Madrid.
 
 ## Características
 
--   E
+-   
 
 ## Puntos a favor y en contra
 
