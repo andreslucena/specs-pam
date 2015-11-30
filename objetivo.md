@@ -1,11 +1,6 @@
 # Objetivo
 
-El objetivo de este documento es el de servir de primer acercamiento a
-las especificaciones que tendrá un plataforma participativa (tanto en su
-faceta de espacio de participación online como en su rol de interfaz con
-procesos offline), en la que se propondrán medidas para el Programa
-d'Actuació Municipal (PAM) y el Plan de Actuación por Distritos (PAD)
-por parte de la ciudadanía en la ciudad de Barcelona.
+El objetivo de este documento es el de servir de primer acercamiento a las especificaciones de una plataforma participativa (tanto en su faceta de espacio de participación online como en su rol de interfaz con procesos offline), en la que la ciudadanía de Barcelona propondrá, debatirá y evaluará medidas y objetivos para el Programa d'Actuació Municipal (PAM) del Ajuntament de Barcelona en el periodo 2016-2019. 
 
 Se trata de una aplicación web responsive multi idioma orientada para
 facilitar la participación de los ciudadanos de Barcelona con registro
