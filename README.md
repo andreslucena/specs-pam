@@ -16,7 +16,7 @@ Este documento busca descrbir las especificaciones que tendrá una plataforma pa
 
 Se trata de una aplicación web responsiva y multi-idioma, orientada a facilitar la participación de la ciudadanía de Barcelona por medio de un registro de usuarios con confirmación via correo electrónico, posibilidad de verificación a través de conexión al padrón municipal y/o sms, así como otros mecanismos. La ciudadanía podrá proponer, modificar, discutir y votar medidas y objetivos relativos al Programa d'Actuació Municipal (PAM) y a los Planes de Acción por Distrito (PAD) a partir de Febrero del 2016. 
 
-Este primer proceso participativo se organizará en distintas fases, por lo que es necesario que la aplicación cumpla con unos requisitos iniciales de funcionalidad. En este desarrollo inicial deben tenerse en cuenta las funcionalidades futuras ya planificadas, y favorecer una versatilidad que permita su modificación posterior sin provocar retrasos en el calendario propuesto para el desarrollo de funcionalidades.
+Este primer proceso participativo se organizará en distintas fases, por lo que es necesario que la aplicación cumpla con unos requisitos iniciales de funcionalidad. En este desarrollo inicial deben tenerse en cuenta las funcionalidades futuras ya planificadas, favoreciéndose una versatilidad que permita su modificación posterior sin provocar retrasos en el calendario propuesto para el desarrollo de funcionalidades.
 
 ### Palabras clave
 
