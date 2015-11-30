@@ -1,7 +1,7 @@
 # Introducción
 
 ## ¿Qué es este documento?
-El objetivo de este documento es el de servir de primer acercamiento a las especificaciones de una plataforma participativa (tanto en su faceta de espacio de participación online como en su rol de interfaz con procesos offline), en la que la ciudadanía de Barcelona propondrá, debatirá y evaluará medidas y objetivos para el Programa d'Actuació Municipal (PAM) del Ajuntament de Barcelona en el periodo 2016-2019. 
+Este documento es un primer acercamiento a las especificaciones de una plataforma participativa (tanto en su faceta de espacio de participación online como en su rol de interfaz con procesos offline), en la que la ciudadanía de Barcelona podrá proponer, debatir y evaluar medidas y objetivos para el Programa d'Actuació Municipal (PAM) del Ajuntament de Barcelona en el periodo 2016-2019. 
 
 El documento quiere ser un espacio vivo de debate participativo y producción colectiva. Para ello estamos usando la tecnología de [Github](http://github.com) a través del [Gitbook](http://gitbook.com), lo que permite la edición colaborativa, el control de versiones, la cuantificación de las contribuciones y la creación de obras derivadas, todo ello de manera automática. También puedes contribuir editando directamente el documento desde github o desde tu repositorio git local.
 
