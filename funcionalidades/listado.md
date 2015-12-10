@@ -28,6 +28,8 @@ propuestas pero con listas creadas siguiendo otras categorías y
 criterios . Discutir el criterio de la lista que aparece inicialmente
 (más votadas, más activas hoy).
 
+![](Listado_de_Propuestas_Fase.png)
+
 Se agrega una imagen de Madrid Decide para visualizar elementos a tener
 en cuenta (tags, buscador, etc.)
 
