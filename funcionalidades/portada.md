@@ -78,4 +78,4 @@ la segunda opción (ver todas las propuestas) potencia la deliberación,
 potencia la participación en comunidad y la evaluación, a riesgo de
 generar pensamiento de grupo y disminuir el número total de propuestas.
 
-![](home01.png)![](home02.png)![](home03.png)![](home04.png)![](home05.png)
+![](Portada_v2.png)
