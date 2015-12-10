@@ -14,9 +14,10 @@ Plataforma de Gobierno Abierto del Ayuntamiento de Madrid.
 
 -   
 
-## Puntos a favor y en contra
 
-**Puntos a favor**  
+## Argumentos
+
+### A favor
 
 * Licencia GPL Affero 3
 * Tanto el lenguaje de programación (Ruby), el framework de desarrollo (Ruby On Rails), el sistema operativo (Linux) y la base de datos (PostgreSQL) son completamente libres. 
@@ -32,7 +33,7 @@ Plataforma de Gobierno Abierto del Ayuntamiento de Madrid.
 * Lo están utilizando en Madrid y estudiando su uso en Zaragoza para los próximos meses, por lo que podemos aprovecharnos de la experiencia acumulada. 
 * Ya lo están utilizando Ayuntamientos en España así que está en cierta medida asegurada su revisión técnica y legal. 
 
-**Puntos en contra**
+### En contra
 
 * Su documentación es mejorable. Sólo tiene unas instrucciones muy básicas para hacerlo funcionar, pero sigue los estándares y convenciones de Ruby On Rails por lo que es prescindible.  
 * Se encuentra en pleno desarrollo, por lo que será necesario coordinarse con los desarrolladores originales para ver la mejor forma de contribuir y cuales (y como) de nuestras funcionalidades se podrían subir a la versión del Ayuntamiento de Madrid. Esto podría evitarse esperando hasta que se consensue con Madrid  un modelo que facilite la colaboración aún más por parte de Madrid.
