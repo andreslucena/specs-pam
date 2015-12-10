@@ -8,12 +8,14 @@ Plataforma de Gobierno Abierto del Ayuntamiento de Madrid.
 
 |**URL** | https://decide.madrid.es |
 | -- | -- |
-| **Código** | https://github.com/AyuntamientoMadrid/participacion |
+| **Código** | https://github.com/consul/consul |
 
 ## Características
 
--   
-
+-   Permite a la ciudadanía realizar peticiones al Gobierno Vasco, así como votarlas (de manera positiva o negativa) y realizar comentarios. 
+-   Cuenta con conexiones intercambiables para verificación con los usuarios a servicios externos en distintos grados (correo electrónico, SMS y API para conexión con el Padrón de la ciudad de Madrid).
+-   Se encuentra en pleno desarrollo abierto y activo.
+-   En su [hoja de ruta](https://github.com/consul/consul/blob/master/ROADMAP_ES.md) de funcionalidades técnicas se encuentran funcionalidades a estudiar para su implementación como los presupuestos participativos o la legislación colaborativa. 
 
 ## Argumentos
 
