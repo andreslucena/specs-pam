@@ -15,7 +15,7 @@
    * [Encuentros presenciales (Calendario, mapa de eventos y autoorganización de encuentros presenciales)](funcionalidades/calendario.md)
    * [Sistema de transparencia, monitorización y visualización de participación ciudadana](funcionalidades/transparencia.md)
 * [Tecnologías útiles y/o parecidas](tecnologias.md)
-   * [Cónsul - Gobierno abierto del Ayuntamiento de Madrid](tecnologias/consul.md)
+   * [Cónsul](tecnologias/consul.md)
    * [Open Irekia](tecnologias/open-irekia.md)
    * [Your Priorities](tecnologias/your-priorities.md)
    * [e-Petitions Gov.UK](tecnologias/e-petitions.md)
