@@ -1,20 +1,22 @@
 # Introducción
 
 ## ¿Qué es este documento?
-Este documento es un primer acercamiento a las especificaciones de una plataforma participativa (tanto en su faceta de espacio de participación online como en su rol de interfaz con procesos offline), en la que la ciudadanía de Barcelona podrá proponer, debatir y evaluar medidas y objetivos para el Programa d'Actuació Municipal (PAM) del Ajuntament de Barcelona en el periodo 2016-2019. 
 
-El documento quiere ser un espacio vivo de debate participativo y producción colectiva. Para ello estamos usando la tecnología de [Github](http://github.com) a través del [Gitbook](http://gitbook.com), lo que permite la edición colaborativa, el control de versiones, la cuantificación de las contribuciones y la creación de obras derivadas, todo ello de manera automática. También puedes contribuir editando directamente el documento desde github o desde tu repositorio git local.
+Este documento es un primer acercamiento a las especificaciones de una plataforma participativa (tanto en su faceta de espacio de participación a través de Internet como en su rol de interfaz con procesos presenciales), en la que la ciudadanía de Barcelona podrá proponer, debatir y evaluar medidas y objetivos para el Programa d'Actuació Municipal (PAM) del Ajuntament de Barcelona en el periodo 2016-2019.
+
+El documento quiere ser un espacio vivo de debate participativo y producción colectiva. Para ello estamos usando la tecnología de [git](https://git-scm.com/) a través del [Gitbook](http://gitbook.com), lo que permite la edición colaborativa, el control de versiones, la cuantificación de las contribuciones y la creación de obras derivadas, todo ello de manera automática. También puedes contribuir editando directamente el documento desde gitbook o desde tu repositorio git local.
 
 ## Meta-datos 
 
 ### Autoría
 
-Este borrador está siendo desarrollado por Andrés Pereira de Lucena, Antonio Calleja-López y Arnau Monterde. Puedes consultar la lista de contribuciones al documento directamente en [esta sección de github](https://github.com/XXX/graphs/contributors). Todos los autores son, a su vez, los editores del texto. Las contribuciones de terceras personas serán aceptadas o rechazadas y, en su caso, reconocidas, en este apartado.
+Este borrador está siendo desarrollado por Andrés Pereira de Lucena, Antonio Calleja-López y Arnau Monterde. Puedes consultar la lista de contribuciones al documento directamente en [la sección de Detalles de gitbook](https://www.gitbook.com/book/andreslucena/specs-pam/details). Todos los autores son, a su vez, los editores del texto. Las contribuciones de terceras personas serán aceptadas o rechazadas y, en su caso, reconocidas, en este apartado.
 
 ### Resumen  
-Este documento busca descrbir las especificaciones que tendrá una plataforma participativa (tanto en su faceta de espacio de participación online como en su rol de interfaz con procesos offline), en la que la ciudadanía de Barcelona propondrá, debatirá y evaluará medidas y objetivos para el Programa d'Actuació Municipal (PAM) del Ajuntament de Barcelona en el periodo 2016-2019. 
 
-Se trata de una aplicación web responsiva y multi-idioma, orientada a facilitar la participación de la ciudadanía de Barcelona por medio de un registro de usuarios con confirmación via correo electrónico, posibilidad de verificación a través de conexión al padrón municipal y/o sms, así como otros mecanismos. La ciudadanía podrá proponer, modificar, discutir y votar medidas y objetivos relativos al Programa d'Actuació Municipal (PAM) y a los Planes de Acción por Distrito (PAD) a partir de Febrero del 2016. 
+Este documento busca describir las especificaciones que tendrá una plataforma participativa (tanto en su faceta de espacio de participación a través de Internet como en su rol de interfaz con procesos presenciales), en la que la ciudadanía de Barcelona propondrá, debatirá y evaluará medidas y objetivos para el Programa d'Actuació Municipal (PAM) del Ajuntament de Barcelona en el periodo 2016-2019. 
+
+Se trata de una aplicación web responsiva y multi-idioma, orientada a facilitar la participación de la ciudadanía de Barcelona por medio de un registro de usuarios con confirmación vía correo electrónico, posibilidad de verificación a través de conexión al padrón municipal y SMS, así como otros mecanismos. La ciudadanía podrá proponer, modificar, discutir y votar medidas y objetivos relativos al Programa d'Actuació Municipal (PAM) y a los Planes de Acción por Distrito (PAD) a partir de Febrero del 2016. 
 
 Este primer proceso participativo se organizará en distintas fases, por lo que es necesario que la aplicación cumpla con unos requisitos iniciales de funcionalidad. En este desarrollo inicial deben tenerse en cuenta las funcionalidades futuras ya planificadas, favoreciéndose una versatilidad que permita su modificación posterior sin provocar retrasos en el calendario propuesto para el desarrollo de funcionalidades.
 
