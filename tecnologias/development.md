@@ -3,7 +3,7 @@
 ## Descripción
 
 
--   
+-   Consistiría en realizar un desarrollo propio a medida desde cero sin partir en la adaptación de otras aplicaciones. 
 
 ## Argumentos
 
