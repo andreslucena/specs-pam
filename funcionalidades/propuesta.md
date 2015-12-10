@@ -69,9 +69,7 @@ contarán con lo siguientes campos:
  -   Enlace al evento de la reunión presencial, con todo lo que conlleva
     (acta de la sesión, número de participantes, etc).
 
-![](prop01.png)
-![](prop02.png)
-![](prop03.png)
+![](Formulario_de_Crear_una_propuesta.png)
 
 
 Aparte de estos campos debe contar con las siguientes funcionalidades:
@@ -150,10 +148,7 @@ Aparte de estos campos debe contar con las siguientes funcionalidades:
     caso de una propuesta del PAM 2015-BCN-PAM-10-1, 2015-BCN-PAM-10-2,
     etc.
 
-![](prop04.png)
-![](prop05.png)
-![](prop06.png)
-
+![](Ejemplo_de_Propuesta_de_Medida.png)
 
 Otras funcionalidades de las medidas/contribuciones:
 
