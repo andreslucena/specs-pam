@@ -46,3 +46,9 @@ caso será autoorganizado) o por el Ayuntamiento (de forma oficial). Los
 encuentros presenciales propuestos por una ciudadana deben ser aprobados
 por un moderador. También tiene que ser abiertos a cualquier
 ciudadano/a.
+
+
+![](Formulario_de_Crear_un_encuentro.png)
+
+
+![](Listado_de_Encuentros_Presenciales.png)
